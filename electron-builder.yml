@@ -1,5 +1,5 @@
 appId: 'namyeonhee'
-productName: '추석 단기'
+productName: '두찌두알'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2025 Daniel Scalzi)'
